@@ -31,9 +31,13 @@ Ambientes com Estruturas de Dados Muito Complexas: Quando as relações entre di
 Empresas que Valorizam a Economia de Armazenamento: Quando o espaço de armazenamento é uma preocupação significativa e a redução da redundância é crítica. 
 
 Educação: Para análise detalhada de dados de estudantes, cursos, departamentos e desempenho acadêmico.
+
+
 Cubos OLAP
 
-Definição de Cubo OLAP OLAP (Online Analytical Processing) refere-se a uma categoria de sistemas de software que são usados para análise multidimensional de grandes volumes de dados. Um cubo OLAP é uma estrutura de dados que permite a realização de consultas complexas e rápidas em um banco de dados. Ele organiza os dados em um formato multidimensional, permitindo a exploração e análise de dados de várias perspectivas. Cada dimensão do cubo representa uma característica diferente dos dados, como tempo, localização, produtos, etc.
+Definição de Cubo OLAP:
+
+OLAP (Online Analytical Processing) refere-se a uma categoria de sistemas de software que são usados para análise multidimensional de grandes volumes de dados. Um cubo OLAP é uma estrutura de dados que permite a realização de consultas complexas e rápidas em um banco de dados. Ele organiza os dados em um formato multidimensional, permitindo a exploração e análise de dados de várias perspectivas. Cada dimensão do cubo representa uma característica diferente dos dados, como tempo, localização, produtos, etc.
 
 
 Arquitetura de Cubo OLAP 
