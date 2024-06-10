@@ -1,7 +1,7 @@
 # Atividade 1 - Star Schema
 Arquivo com a tabela e as competências solicitadas na atividade.
 
-#Atividade 2 - Tabelas 
+# Atividade 2 - Tabelas 
 Arquivos das três solicitações:
 1- com as tabelas solicitadas
 2- as funções para execução
