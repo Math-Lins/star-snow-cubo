@@ -4,7 +4,9 @@ Arquivo com a tabela e as competências solicitadas na atividade.
 # Atividade 2 - Tabelas 
 Arquivos das três solicitações:
 1- com as tabelas solicitadas
+
 2- as funções para execução
+
 3- com as queries para concluir a atividade 2
 
 # Pesquisa de Star-Snow-Cubo 
